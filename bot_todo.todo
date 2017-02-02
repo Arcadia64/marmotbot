@@ -1,20 +1,14 @@
-New ToDo List:
-☐ Re-create bot :(
-
-
-
-Old ToDo List:
-☐ Volume command
-☐ Seek command
-☐ Queue
-☐ Clean up console log
-☐ Overwatch directory
-☐ interrupting sound files
-
-
-
+ToDo List:
+  ☐ Youtube Queue
+  ☐ Seek Commands
+  ☐ Overwatch directory
+  ☐ Fix interrupting sound files
+  ☐ Volume commands
+  ☐ "starting at" only when timestamp
+  ☐ Sound file playback (also, pause youtube video if playing, resume when done playing sound effect)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 Archive:
-  ✔ "starting at" only when timestamp @done(2017-01-15 02:33)
-  ✔ Marmot command replies only in marmotworld @done(2017-01-15 02:33)
+  ✔ Respond to "-play [youtube video URL]" @done(2017-02-02 01:59) @project(Archive)
+  ✔ Marmot command replies only in marmotworld @done(2017-02-02 01:59) @project(Archive)
+  ✔ Re-create bot :( @done(2017-02-02 01:55)
